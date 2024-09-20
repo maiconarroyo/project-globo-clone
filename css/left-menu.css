@@ -1,0 +1,29 @@
+.left-menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:white;
+    width: 100px;
+    
+
+}
+
+.home-logo{
+    justify-content: center;
+    height: 30px;
+    width: 30px;
+    margin-top: 30px;
+    
+}
+
+.home-logo.-menor{
+    width: 40px;
+    height: 40px;
+}
+
+
+.home-logo:hover{
+    -ms-transform: scale(1.15);
+    transform: scale(1.15);
+}
+

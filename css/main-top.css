@@ -1,0 +1,27 @@
+.main-top {
+    display: flex;
+    background-color: #fff;
+    height: 60px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    height: 40px;
+    width: 60px;
+    background-color: purple;
+    
+}
+
+.search{
+    height: 40px;
+    width: 250px;
+    background-color: orange;
+    
+}
+
+.options{
+    background-color: gray;
+    width: 150px;
+    height: 40px;
+}
