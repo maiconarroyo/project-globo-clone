@@ -1,29 +1,29 @@
-.left-menu{
+.menu-lateral{
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color:white;
-    width: 100px;
+    width: 50px;
     
-
 }
 
-.home-logo{
-    justify-content: center;
+.menu-botao{
+    width: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
     height: 30px;
     width: 30px;
     margin-top: 30px;
     
 }
 
-.home-logo.-menor{
-    width: 40px;
-    height: 40px;
-}
 
-
-.home-logo:hover{
+.menu-botao:hover{
     -ms-transform: scale(1.15);
     transform: scale(1.15);
+    background-color: rgb(214, 199, 199);
+    cursor: pointer;
 }
+
 
