@@ -1,0 +1,21 @@
+.topo{
+    background-color: red;
+    height: 85px;
+}
+
+.conteudo{
+    background-color: green;
+    display: flex;
+}
+
+.lateral{
+    background-color: orange;
+}
+
+.recomendados{
+    background-color: blue;
+}
+
+.videos{
+    background-color: brown;
+}
