@@ -1,17 +1,66 @@
 .topo{
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     margin-bottom: 20px;
 
-    
-    
 }
+    logo-links-container {
+        display: flex;
+        flex-direction: column; 
+        align-items: center;
+    }
+    
+    .links {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+    
+    .topo-titulo {
+        font-size: 19px;
+        font-family: "Encode Sans", sans-serif;
+        margin: 5px; 
+    }
 
-.topo-titulo{
-    display: flex;
-    flex-wrap: wrap;
-    font-size: 19px;
-    font-family:"Encode Sans", sans-serif;
-}
+    .topo-titulo.-var1{
+        color: #C3170C;
+        ;
+    }
+
+    .topo-titulo.-var2{
+        color:#1E4B9B;
+    }
+
+    .topo-titulo.-var3{
+        color: #006766;
+    }
+
+    .topo-titulo.-var4{
+        color: #07AA47;
+    }
+
+    .topo-titulo.-var5{
+        color: #E3662B;
+    }
+    .topo-titulo.-var6{
+      color: #FB0735;
+    }
+
+    .topo-titulo.-var7{
+        color: #FF75BB;
+    }
+
+    .topo-titulo.-var8{
+        color: #EC7D00;
+    }
+
+    .topo-titulo.-var9{
+        color: #323333;
+    }
+
+    .topo-titulo.-var10{
+        color:#A81D83 ;
+    }
