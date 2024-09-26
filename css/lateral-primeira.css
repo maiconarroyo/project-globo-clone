@@ -1,0 +1,40 @@
+.teste{
+    display:flex;
+ }
+
+.lateral{
+    border-left: 1px solid #EBEDEF; 
+    display: flex;
+    flex-direction: column;
+    width: 296px;
+    padding-right: 10px;
+}
+
+.lateral .new-desc1{
+    font-family:"Encode Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #16AE54;
+    margin-top: 2px;
+
+ }
+ .lateral .new-desc2{
+    font-family:"Encode Sans", sans-serif;
+    color: #2F3134;
+    font-size: 20px;
+    font-weight: 700;
+    width: 240px;
+    height: 84px;
+    margin-top: 0;
+    letter-spacing: -1.0px;
+ }
+ .lateral .new-desc3{
+    
+    font-family:"Encode Sans", sans-serif;
+    font-size: 14px;
+    color: #2F3134;
+    font-weight: 400;
+    margin-top: 0;
+    width: 185px;
+    height: 42.5px;
+ }

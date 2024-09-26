@@ -1,9 +1,45 @@
 .banner2{
     display: flex;
+  padding-left: 10px;
+  margin-top: 20px;
 
  }
-
- sub-new {
-    width: 196px; /* Alinhar com a largura de .news-desc2 */
-    height: auto; /* Garantir que a altura se ajuste ao conteúdo */
+ .sub-new{
+    font-weight: 0;
+    width: 199px;
+    padding-right: 20px;
  }
+
+.sub-new .new-desc1{
+    font-family:"Encode Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #C4170C;
+    margin-top: 4px;
+    letter-spacing: -1.0px;
+    
+
+}
+
+.sub-new .new-desc2{
+    font-family:"Encode Sans", sans-serif;
+    color: #2F3134;
+    font-size: 20px;
+    font-weight: 700;
+    width: 189px;
+    height: 84px;
+    line-height: 25px;
+    letter-spacing: -1.0px;
+    margin-top: 08px;
+}
+
+.sub-new .new-desc3{
+    font-family:"Encode Sans", sans-serif;
+    font-size: 14px;
+    color: #2F3134;
+    font-weight: 400;
+    width: 185px;
+    height: 42.5px;
+    letter-spacing: -1.0px;
+    margin: 0;
+}

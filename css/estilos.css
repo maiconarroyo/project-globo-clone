@@ -1,6 +1,8 @@
 
 .conteudo{
     display: flex;
+    align-items: center;
+    justify-content: center;
     padding-left: 100px;
 }
 
@@ -13,15 +15,8 @@
  .teste{
     display:flex;
  }
-.lateral{
-    display: flex;
-    flex-direction: column;
-    background-color: orange;
-}
 
-.lateral2{
-    background-color: beige;
-}
+
 
 .recomendados{
     background-color: blue;

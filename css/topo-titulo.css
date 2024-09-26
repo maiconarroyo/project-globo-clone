@@ -10,8 +10,15 @@
         border-bottom: 1px solid #EBEDEF; 
         border-top: 1px solid#EBEDEF;
         display: flex;
-        align-items:center;
-        justify-content:space-evenly;
+        align-items: center;
+        justify-content: space-evenly;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: 90px;
+        margin-right: 90px;
+        width: 80%;
+       
+        
         
   
 

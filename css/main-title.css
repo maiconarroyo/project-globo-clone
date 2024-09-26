@@ -46,7 +46,7 @@
     font-size: 14px;
     font-weight: 500;
     color: #C4170C;
-    margin-top: 4px;
+    margin-top: 2px;
 
  }
  .news-desc2{
@@ -57,6 +57,7 @@
     width: 196px;
     height: 84px;
     margin-top: 0;
+    letter-spacing: -1.0px;
  }
  .news-desc3{
     
