@@ -1,0 +1,12 @@
+.titulo{
+    border-bottom: 1px solid #EBEDEF; 
+}
+
+.banner1{
+    display: flex;
+    flex-wrap: wrap;  
+    border-bottom: 1px solid #EBEDEF; 
+ }
+ .figure1{
+    margin: 12px;
+ }

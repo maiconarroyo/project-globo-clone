@@ -1,0 +1,9 @@
+.banner2{
+    display: flex;
+
+ }
+
+ sub-new {
+    width: 196px; /* Alinhar com a largura de .news-desc2 */
+    height: auto; /* Garantir que a altura se ajuste ao conteúdo */
+ }

@@ -1,20 +1,29 @@
-.topo{
-
-}
 
 .conteudo{
-    background-color: green;
     display: flex;
+    padding-left: 100px;
 }
 
+
+ 
+ 
+
+ 
+
+ .teste{
+    display:flex;
+ }
 .lateral{
+    display: flex;
+    flex-direction: column;
     background-color: orange;
+}
+
+.lateral2{
+    background-color: beige;
 }
 
 .recomendados{
     background-color: blue;
 }
 
-.videos{
-    background-color: brown;
-}

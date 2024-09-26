@@ -1,0 +1,70 @@
+.main-title{
+    font-family:"Encode Sans", sans-serif;
+    color: #C4160C;
+    font-size: 52px;
+    line-height: 67px;
+    width: 624px;
+    height: 201px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+ }
+
+ .sub-title{
+    font-family:"Encode Sans", sans-serif;
+    font-size: 18px;
+    color: #303134; 
+    width: 622px;
+    height: 25px;
+    line-height: 22.5px;
+    margin-top: 0;
+    margin-bottom: 08px;
+
+ 
+ }
+
+ .sub-title.-var{
+    font-family:"Encode Sans", sans-serif;
+    font-size: 18px;
+    color: #303134; 
+    width: 622px;
+    height: 25px;
+    line-height: 22.5px;
+    margin-top: 0;
+    margin-bottom:30px;
+    padding-bottom: 10px;
+ }
+
+ .sub-new{
+   width: 192px;
+
+}
+
+ .news-desc1{
+    font-family:"Encode Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #C4170C;
+    margin-top: 4px;
+
+ }
+ .news-desc2{
+    font-family:"Encode Sans", sans-serif;
+    color: #2F3134;
+    font-size: 20px;
+    font-weight: 700;
+    width: 196px;
+    height: 84px;
+    margin-top: 0;
+ }
+ .news-desc3{
+    
+    font-family:"Encode Sans", sans-serif;
+    font-size: 14px;
+    color: #2F3134;
+    font-weight: 400;
+    margin-top: 0;
+    width: 185px;
+    height: 42.5px;
+ }
