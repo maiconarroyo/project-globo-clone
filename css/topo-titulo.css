@@ -4,9 +4,9 @@
     justify-content: center;
     align-items: center;
 
+
 }
     .links {
-  
         border-bottom: 1px solid #EBEDEF; 
         border-top: 1px solid#EBEDEF;
         display: flex;
@@ -17,14 +17,18 @@
         margin-left: 90px;
         margin-right: 90px;
         width: 80%;
-       
-        
-        
-  
 
        
     }
-
+.main-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 
  
 
