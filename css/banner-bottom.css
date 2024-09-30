@@ -47,15 +47,3 @@
     display: flex;
     flex-direction: column;
 }
-
-
-@media(max-width:600px){
-.meio {
-    display: flex;
-    flex-direction:column;
-}
-
-.banner2, .teste {
-    width: 100%;
-}
-}

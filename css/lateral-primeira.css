@@ -39,18 +39,15 @@
     height: 42.5px;
  }
 
- @media(max-width:600px){
-   
-   .teste {
+ @media(max-width:600px) {
+   .meio {
        display: flex;
        flex-direction: column;
-       margin-top: 20px; 
    }
-   
-   .lateral, .lateral2 {
+   .banner2, .teste {
        width: 100%;
    }
+   .teste {
+       margin-top: 20px;
+   }
 }
-
-
- 
