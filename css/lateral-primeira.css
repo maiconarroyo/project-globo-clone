@@ -38,3 +38,19 @@
     width: 185px;
     height: 42.5px;
  }
+
+ @media(max-width:600px){
+   
+   .teste {
+       display: flex;
+       flex-direction: column;
+       margin-top: 20px; 
+   }
+   
+   .lateral, .lateral2 {
+       width: 100%;
+   }
+}
+
+
+ 
